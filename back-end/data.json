@@ -1,0 +1,124 @@
+[
+    {
+      "name": "Popcorn",
+      "imageUrl":" https://www.candypop.be/cdn/shop/products/image_cea49003-b327-46bf-93b1-3fc02e7c58d9.webp?v=1662469225",
+       "price":4,
+      "category":"snacks"
+    },   
+  {
+      "name": "Popcorn-5v",
+      "imageUrl":" https://cdn.globalso.com/indiampopcorn/6767a46e.jpg",
+       "price":10,
+      "category":"snacks"
+    },
+{
+      "name": "Piquant Spicy Slice",
+      "imageUrl":" https://cdn.globalso.com/indiampopcorn/6767a46e.jpg",
+       "price":7,
+      "category":"snacks"
+    },
+{
+      "name": "cookies",
+      "imageUrl":"https://popsamerica.com/2851-home_default/hello-panda-cookies-cream.jpg",
+       "price":5.5,
+      "category":"snacks"
+    },
+{
+      "name": "noodles",
+      "imageUrl":"https://littleasia.tn/wp-content/uploads/2022/10/567-scaled.jpg ",
+       "price":6,
+      "category":"noodles"
+    },
+{
+      "name": "ramen",
+      "imageUrl":"https://i5.walmartimages.com/seo/Samyang-Spicy-Hot-Chicken-Flavor-Instant-Ramen-4-94-oz-5-pack_2fc8bf76-5a24-48ae-9a75-c2e7ecaead39.08e4eb1a9b39dab4fd30588efbd71f5a.jpeg ",
+       "price":6.5,
+      "category":"noodles"
+    },
+{
+      "name": "ramen-X",
+      "imageUrl":"https://m.media-amazon.com/images/I/81DhRFdthEL.jpg ",
+       "price":6.8,
+      "category":"noodles"
+    },
+{
+      "name": "ramen-X",
+      "imageUrl":"https://tn.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/33/8634/1.jpg?4324 ",
+       "price":9.3,
+      "category":"noodles"
+    },
+{
+      "name": "pink-mochi",
+      "imageUrl":"https://m.media-amazon.com/images/I/61TXBvmNGcS._AC_UF894,1000_QL80_.jpg ",
+       "price":14,
+      "category":"mochis"
+    },
+{
+      "name": "greentea-mochi",
+      "imageUrl":"https://m.media-amazon.com/images/I/91bP06Yni4L._SL1500_.jpg ",
+       "price":14,
+      "category":"mochis"
+    },
+{
+      "name": "icecream-mochi",
+      "imageUrl":"https://ipcdn.freshop.com/resize?url=https://images.freshop.com/00070934996571/d5c9049e9f60eadbcad53a97f43cb439_large.png&width=512&type=webp&quality=90 " ,
+       "price":14,
+      "category":"mochis"
+    },
+{
+      "name": "caramel-mochi",
+      "imageUrl":"https://littlemoons.com/cdn/shop/products/1_411b0910-1a23-4714-a106-4679cbfd908c.png?v=1667385807",
+       "price":14,
+      "category":"mochis"
+    },
+{
+      "name": "pineapple mogo",
+      "imageUrl":"https://cdnprod.mafretailproxy.com/sys-master-root/h7d/hdd/9850427736094/654191_main.jpg_480Wx480H",
+       "price":2,
+      "category":"drinks"
+    },
+{
+      "name": "passion-fruit mogo",
+      "imageUrl":"https://cdn.salla.sa/RqAYX/iY8n1RPEAB2OPYTWfPts0uf3hXmQAKNGJkG1QB2g.jpg ",
+       "price":2,
+      "category":"drinks"
+    },
+{
+      "name": "ramune-soda",
+      "imageUrl":"https://m.media-amazon.com/images/I/81PFMk9gnSL._SL1500_.jpg ",
+       "price":2,
+      "category":"drinks"
+    },
+{
+      "name": "Kagome",
+      "imageUrl":"https://i.ebayimg.com/images/g/b54AAOSw27RdK75l/s-l1200.jpg ",
+       "price":2,
+      "category":"drinks"
+    },
+{
+      "name": "sriracha sauce",
+      "imageUrl":"https://m.media-amazon.com/images/I/61gpZebR7BL._AC_UF1000,1000_QL80_.jpg ",
+       "price":8.3,
+      "category":"sauces"
+    },
+{
+      "name": "Samyang hot sauces",
+      "imageUrl":"https://m.media-amazon.com/images/I/71mxJtMG0hL.jpg ",
+       "price":8.4,
+      "category":"sauces"
+    },
+{
+      "name": "Sweet Chili sauce",
+      "imageUrl":"https://www.yaisthai.com/cdn/shop/products/33_1c426840-cfec-4715-b91d-383a569d8486.png?v=1656013437 ",
+       "price":8.5,
+      "category":"sauces"
+    },
+{
+      "name": "Haday soja sauce",
+      "imageUrl":"https://m.media-amazon.com/images/I/51Q2IXtig+L.jpg ",
+       "price":8.6,
+      "category":"sauces"
+  }
+
+
+]
